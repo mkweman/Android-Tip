@@ -1,0 +1,11 @@
+<resources>
+    <string name="bill">Bill Amount?</string>
+    <string name="cost">Bill</string>
+    <string name="percent">Percentage</string>
+    <string name="app_name">Tip</string>
+    <string name="calculate">Calculate</string>
+    <string name="round_up_tip">Round up pay?</string>
+    <string name="tip">Tip Percentage?</string>
+    <string name="tip_amount">Tip Amount: %s</string>
+    <string name="pay">Total Amount: %s</string>
+</resources>
